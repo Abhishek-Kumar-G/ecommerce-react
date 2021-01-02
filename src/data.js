@@ -16,7 +16,7 @@ const data = {
       _id: '2',
       name: 'Noodles',
       category: 'Food',
-      image: '/images/17 noodles.jpg',
+      image: 'http://localhost:3000/images/17%20noodles.jpg',
       price: 32,
       countInStock: 20,
       brand: 'Maggi',
